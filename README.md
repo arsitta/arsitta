@@ -18,7 +18,6 @@
   
 <h4>Actualmente estoy estudiando:</h4>
 -Ing. Sistemas de información en la UTN<br>
--Node<br>
--Express
+-Next
 
 
