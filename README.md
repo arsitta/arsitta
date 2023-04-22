@@ -1,6 +1,6 @@
 🙋‍♂️ Hola! Mi nombre es Ariel y soy un desarrollador 𝑭𝒓𝒐𝒏𝒕-𝑬𝒏𝒅
 
-📌 CV: https://bit.ly/3OL2DTZ<br>
+📌 CV: bit.ly/arsitta<br>
 💼 Portfolio: https://arsitta.com.ar/<br>
 📧 Contacto: info@arsitta.com.ar<br>
 </p>
